@@ -12,8 +12,8 @@ The Sales Performance Dashboard is an interactive Excel-based analytics tool des
 
 ### 2. Monthly Sales Trend:
 
-* Functionality:** Shows the trend of sales over the months in a line graph format.
-* Interactivity:** Filters by Year to analyze time-based performance and seasonal sales variations.
+* Functionality: Shows the trend of sales over the months in a line graph format.
+* Interactivity: Filters by Year to analyze time-based performance and seasonal sales variations.
 
 ### 3. Profit by Segment & Year:
 
