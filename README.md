@@ -36,7 +36,7 @@ The Sales Performance Dashboard is an interactive Excel-based analytics tool des
 
 * Data Source:
 
-  * Cleaned Superstore Dataset (Excel Format)**: Contains transactional data including orders, regions, categories, customer segments, and profits.
+  * Cleaned Superstore Dataset (Excel Format): Contains transactional data including orders, regions, categories, customer segments, and profits.
 
 
 ## How It Works:
